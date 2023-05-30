@@ -29,7 +29,8 @@ The project includes the following TypeORM entities:
 - `Meta`: Represents additional metadata associated with a blog post.
 - `Category`: Represents a category to which a blog post belongs.
 
-For a detailed understanding of the entity structure and their relationships, refer to the included UML diagram (`blog-database-diagram.png`).
+For a detailed understanding of the entity structure and their relationships, refer to the included UML diagram
+![Diagram](blog-database-diagram.png)
 
 ## Contributing
 
